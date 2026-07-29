@@ -1,0 +1,9 @@
+﻿{
+    "flomoTarget":  "01-收件箱/flomo",
+    "memoTarget":  "01-收件箱/memos",
+    "optionsMoments":  "copy_with_link",
+    "optionsCanvas":  "copy_with_content",
+    "expOptionAllowbilink":  true,
+    "canvasSize":  "M",
+    "mergeByDate":  true
+}
