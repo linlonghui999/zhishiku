@@ -1,4 +1,4 @@
----
+﻿---
 title: "Facebook Ads: New Tools for Better Tracking, More Creative, and Faster Sales"
 source: "Social Media Examiner"
 url: "https://www.socialmediaexaminer.com/facebook-ads-new-tools-for-better-tracking-more-creative-and-faster-sales/"
@@ -15,6 +15,18 @@ domain: "自媒体"
 maturity: "seed"
 up: "[[02-主题地图/自媒体 MOC]]"
 map: "[[02-主题地图/自媒体/自媒体-AI工具 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：Facebook 广告新工具：更好追踪、更多创意、更快迭代
+- 原文语言：英文
+- 一句话摘要：资料介绍 Facebook 广告相关新工具，重点可能包括数据追踪、创意制作和投放效率。
+- 这条资料对我有什么用：适合广告投放、海外营销和平台工具更新观察。
+- 可提炼观点：广告投放的竞争不只是预算竞争，也是追踪、创意和迭代速度的竞争。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # Facebook Ads: New Tools for Better Tracking, More Creative, and Faster Sales
@@ -45,3 +57,4 @@ Is Meta asking you to hand over more control of your Facebook ads than you're co
 - 主题入口：[[02-主题地图/自媒体 MOC|自媒体 MOC]]，用于回到自媒体知识全景。
 - 分类地图：[[02-主题地图/自媒体/自媒体-AI工具 MOC|AI工具地图]]，因为本资料归入“AI工具”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

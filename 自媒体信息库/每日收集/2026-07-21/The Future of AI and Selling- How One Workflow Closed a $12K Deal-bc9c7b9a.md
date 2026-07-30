@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Future of AI and Selling: How One Workflow Closed a $12K Deal"
 source: "Social Media Examiner"
 url: "https://www.socialmediaexaminer.com/the-future-of-ai-and-selling-how-one-workflow-closed-a-12k-deal/"
@@ -15,6 +15,18 @@ domain: "自媒体"
 maturity: "seed"
 up: "[[02-主题地图/自媒体 MOC]]"
 map: "[[02-主题地图/自媒体/自媒体-AI工具 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：AI 与销售的未来：一个工作流如何成交 1.2 万美元订单
+- 原文语言：英文
+- 一句话摘要：资料用案例说明 AI 工作流如何辅助销售，从线索、沟通到成交形成闭环。
+- 这条资料对我有什么用：适合销售自动化、AI 商业化和高客单成交案例。
+- 可提炼观点：AI 销售真正有价值的地方，是把客户理解、方案生成和跟进节奏连成闭环。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # The Future of AI and Selling: How One Workflow Closed a $12K Deal
@@ -45,3 +57,4 @@ Do you sell digital marketing services and assets? Wondering how AI can help you
 - 主题入口：[[02-主题地图/自媒体 MOC|自媒体 MOC]]，用于回到自媒体知识全景。
 - 分类地图：[[02-主题地图/自媒体/自媒体-AI工具 MOC|AI工具地图]]，因为本资料归入“AI工具”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

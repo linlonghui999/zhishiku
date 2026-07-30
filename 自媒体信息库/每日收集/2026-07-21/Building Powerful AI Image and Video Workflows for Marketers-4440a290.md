@@ -1,4 +1,4 @@
----
+﻿---
 title: "Building Powerful AI Image and Video Workflows for Marketers"
 source: "Social Media Examiner"
 url: "https://www.socialmediaexaminer.com/building-powerful-ai-image-and-video-workflows-for-marketers/"
@@ -15,6 +15,18 @@ domain: "自媒体"
 maturity: "seed"
 up: "[[02-主题地图/自媒体 MOC]]"
 map: "[[02-主题地图/自媒体/自媒体-AI工具 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：为营销人员构建强大的 AI 图像与视频工作流
+- 原文语言：英文
+- 一句话摘要：资料聚焦营销场景中如何用 AI 生成、编辑和迭代图像视频内容。
+- 这条资料对我有什么用：适合短视频素材生产、广告创意、内容营销。
+- 可提炼观点：AI 视觉工作流的重点不是单张图好看，而是能持续产出符合品牌和转化目标的素材。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # Building Powerful AI Image and Video Workflows for Marketers
@@ -45,3 +57,4 @@ Wondering why your AI-generated images look polished in demos but look flat when
 - 主题入口：[[02-主题地图/自媒体 MOC|自媒体 MOC]]，用于回到自媒体知识全景。
 - 分类地图：[[02-主题地图/自媒体/自媒体-AI工具 MOC|AI工具地图]]，因为本资料归入“AI工具”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

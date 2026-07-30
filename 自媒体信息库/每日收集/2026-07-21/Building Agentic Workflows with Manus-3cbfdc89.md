@@ -1,4 +1,4 @@
----
+﻿---
 title: "Building Agentic Workflows with Manus"
 source: "Social Media Examiner"
 url: "https://www.socialmediaexaminer.com/building-agentic-workflows-with-manus/"
@@ -15,6 +15,18 @@ domain: "自媒体"
 maturity: "seed"
 up: "[[02-主题地图/自媒体 MOC]]"
 map: "[[02-主题地图/自媒体/自媒体-AI工具 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：用 Manus 构建智能体工作流
+- 原文语言：英文
+- 一句话摘要：资料讨论如何用 Manus 类工具构建 Agent 工作流，把复杂任务拆成可自动执行的步骤。
+- 这条资料对我有什么用：适合用于 AI 工具、自动化工作流和一人公司效率系统。
+- 可提炼观点：Agent 工作流的关键不是炫技，而是把重复决策变成稳定流程。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # Building Agentic Workflows with Manus
@@ -45,3 +57,4 @@ Are you tired of manually copying and pasting data between AI tools? Looking for
 - 主题入口：[[02-主题地图/自媒体 MOC|自媒体 MOC]]，用于回到自媒体知识全景。
 - 分类地图：[[02-主题地图/自媒体/自媒体-AI工具 MOC|AI工具地图]]，因为本资料归入“AI工具”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

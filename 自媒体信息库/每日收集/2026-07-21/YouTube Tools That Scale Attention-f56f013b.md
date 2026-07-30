@@ -1,4 +1,4 @@
----
+﻿---
 title: "YouTube Tools That Scale Attention"
 source: "Social Media Examiner"
 url: "https://www.socialmediaexaminer.com/youtube-tools-that-scale-attention/"
@@ -15,6 +15,18 @@ domain: "自媒体"
 maturity: "seed"
 up: "[[02-主题地图/自媒体 MOC]]"
 map: "[[02-主题地图/自媒体/自媒体-AI工具 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：能放大注意力的 YouTube 工具
+- 原文语言：英文
+- 一句话摘要：资料介绍帮助 YouTube 创作者提升注意力获取、分析和增长的工具。
+- 这条资料对我有什么用：适合视频平台运营、工具选型和内容增长。
+- 可提炼观点：工具的价值不是替代内容，而是帮助创作者更快发现观众真正停留在哪里。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # YouTube Tools That Scale Attention
@@ -45,3 +57,4 @@ Is your YouTube content failing to gain traction? Wondering if YouTube has tools
 - 主题入口：[[02-主题地图/自媒体 MOC|自媒体 MOC]]，用于回到自媒体知识全景。
 - 分类地图：[[02-主题地图/自媒体/自媒体-AI工具 MOC|AI工具地图]]，因为本资料归入“AI工具”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

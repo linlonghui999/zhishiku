@@ -1,4 +1,4 @@
----
+﻿---
 title: "Synthesis of the Natural Product 1,3-Dibehenyl-2-ferulyl Glyceride (Aquilaria malaccensis) and Its Derivatives."
 source: "PubMed-沉香科研"
 url: "https://pubmed.ncbi.nlm.nih.gov/42197146/"
@@ -15,6 +15,18 @@ domain: "沉香"
 maturity: "seed"
 up: "[[02-主题地图/沉香 MOC]]"
 map: "[[02-主题地图/沉香/沉香-科研药用 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：天然产物 1,3-二山嵛酰-2-阿魏酰甘油酯的合成研究
+- 原文语言：英文
+- 一句话摘要：这是一条偏化学合成的沉香相关科研资料，关注特定天然产物成分的合成。
+- 这条资料对我有什么用：适合沉香化学成分资料归档，日常内容价值较低，科研背景价值较高。
+- 可提炼观点：沉香科研资料要区分大众内容价值和专业成分研究价值，不能全部用同一种方式输出。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # Synthesis of the Natural Product 1,3-Dibehenyl-2-ferulyl Glyceride (Aquilaria malaccensis) and Its Derivatives.
@@ -45,3 +57,4 @@ Sánchez-Esparza AJ, Cantú-Reyes M, Fragoso-Medina AJ, Nieto-Camacho A, Ortega-
 - 主题入口：[[02-主题地图/沉香 MOC|沉香 MOC]]，用于回到沉香知识全景。
 - 分类地图：[[02-主题地图/沉香/沉香-科研药用 MOC|科研药用地图]]，因为本资料归入“科研药用”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

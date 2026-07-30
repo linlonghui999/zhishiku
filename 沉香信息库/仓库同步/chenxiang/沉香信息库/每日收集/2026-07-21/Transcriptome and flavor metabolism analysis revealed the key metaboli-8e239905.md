@@ -1,4 +1,4 @@
----
+﻿---
 title: "Transcriptome and flavor metabolism analysis revealed the key metabolic pathways for aroma enhancement of Aspergillus Fuqu under agarwood addition."
 source: "PubMed-沉香科研"
 url: "https://pubmed.ncbi.nlm.nih.gov/42430966/"
@@ -15,6 +15,18 @@ domain: "沉香"
 maturity: "seed"
 up: "[[02-主题地图/沉香 MOC]]"
 map: "[[02-主题地图/沉香/沉香-科研药用 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：转录组与风味代谢分析揭示沉香关键代谢机制
+- 原文语言：英文
+- 一句话摘要：资料涉及通过转录组和代谢分析研究沉香风味或香气形成中的关键代谢路径。
+- 这条资料对我有什么用：适合沉香形成机制、科研药用和高阶内容储备。
+- 可提炼观点：讲沉香形成机制时，可以把复杂科研翻译成一句话：香气来自树体受刺激后的代谢重组。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # Transcriptome and flavor metabolism analysis revealed the key metabolic pathways for aroma enhancement of Aspergillus Fuqu under agarwood addition.
@@ -45,3 +57,4 @@ Guo Z, Li Z, Zhu M, Wang M, Liao B；Microbiological research
 - 主题入口：[[02-主题地图/沉香 MOC|沉香 MOC]]，用于回到沉香知识全景。
 - 分类地图：[[02-主题地图/沉香/沉香-科研药用 MOC|科研药用地图]]，因为本资料归入“科研药用”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

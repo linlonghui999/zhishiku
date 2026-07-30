@@ -1,4 +1,4 @@
----
+﻿---
 title: "Writing Winning LinkedIn Content, Without AI"
 source: "Social Media Examiner"
 url: "https://www.socialmediaexaminer.com/writing-winning-linkedin-content-without-ai/"
@@ -15,6 +15,18 @@ domain: "自媒体"
 maturity: "seed"
 up: "[[02-主题地图/自媒体 MOC]]"
 map: "[[02-主题地图/自媒体/自媒体-AI工具 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：不用 AI 写出有效的 LinkedIn 内容
+- 原文语言：英文
+- 一句话摘要：资料讨论 LinkedIn 内容写作方法，强调定位、表达、经验和可信度。
+- 这条资料对我有什么用：适合个人品牌、职业内容和海外平台写作。
+- 可提炼观点：有效内容不一定依赖 AI，关键是把真实经验变成清晰观点。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # Writing Winning LinkedIn Content, Without AI
@@ -45,3 +57,4 @@ Struggling to get traction on LinkedIn despite posting consistently? Wondering w
 - 主题入口：[[02-主题地图/自媒体 MOC|自媒体 MOC]]，用于回到自媒体知识全景。
 - 分类地图：[[02-主题地图/自媒体/自媒体-AI工具 MOC|AI工具地图]]，因为本资料归入“AI工具”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+

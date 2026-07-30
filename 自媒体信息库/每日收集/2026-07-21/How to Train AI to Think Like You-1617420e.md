@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Train AI to Think Like You"
 source: "Social Media Examiner"
 url: "https://www.socialmediaexaminer.com/how-to-train-ai-to-think-like-you/"
@@ -15,6 +15,18 @@ domain: "自媒体"
 maturity: "seed"
 up: "[[02-主题地图/自媒体 MOC]]"
 map: "[[02-主题地图/自媒体/自媒体-AI工具 MOC]]"
+---
+
+
+## 简体中文整理
+
+- 中文标题：如何训练 AI 像你一样思考
+- 原文语言：英文
+- 一句话摘要：资料讨论如何通过样例、原则、语气和判断标准，让 AI 更贴近个人思维方式。
+- 这条资料对我有什么用：适合个人 AI 助手、知识库提示词和内容生产系统。
+- 可提炼观点：训练 AI 像你，不是让它模仿口头禅，而是让它学会你的判断标准。
+- 适合进入主题：沉香 / 修行 / 自媒体 / 跨领域，请按内容实际归入。
+
 ---
 
 # How to Train AI to Think Like You
@@ -45,3 +57,4 @@ Want to use AI to scale your natural voice and professional expertise? Wondering
 - 主题入口：[[02-主题地图/自媒体 MOC|自媒体 MOC]]，用于回到自媒体知识全景。
 - 分类地图：[[02-主题地图/自媒体/自媒体-AI工具 MOC|AI工具地图]]，因为本资料归入“AI工具”。
 - 提炼动作：把可复用结论写成独立卡片，并明确证据、适用边界和关联内容。
+
